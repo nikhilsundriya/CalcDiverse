@@ -60,7 +60,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 
 <h2>Overview⭐</h2>
 
-<h3>Live Project --> (https://calcdiverse.netlify.app)</h3>
+<h3>Live Project --> (https://calcdiverse-nikhil.netlify.app)</h3>
 
 <h3>Home/Main Page :-</h3>
 
@@ -93,7 +93,7 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 git clone https://github.com/<your-github-username>/CalcDiverse.git
 ```
 - Open `index.html` in your browser.
-- View the [Live Project](https://calcdiverse.netlify.app/) here.
+- View the [Live Project](https://calcdiverse-nikhil.netlify.app/) here.
 - Raise an issue if you find a bug or add a feature.
 - Wait for the issue to be assigned and proceed only after the issue is assigned to you.
 - Add your codes :-

@@ -16,7 +16,7 @@ const faq = [
     },
     {
         question: "How can I access the live project?",
-        answer: 'The live project is accessible at <a href="https://calcdiverse.netlify.app/" target="_blank">CalcDiverse</a>',
+        answer: 'The live project is accessible at <a href="https://calcdiverse-nikhil.netlify.app/" target="_blank">CalcDiverse</a>',
     },
     {
         question: "How can I get started with contributing to CalcDiverse?",
