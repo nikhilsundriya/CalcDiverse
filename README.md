@@ -7,17 +7,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/04e17044-20bb-45e0-8c38-1ec4b63a846c/deploy-status)](https://app.netlify.com/sites/calcdiverse/deploys)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=nikhilsundriya%2FCalcDiverse%20&countColor=%23263759&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/nikhilsundriya/CalcDiverse)
-![GitHub Repo stars](https://img.shields.io/github/stars/nikhilsundriya/CalcDiverse)
-![GitHub contributors](https://img.shields.io/github/contributors/nikhilsundriya/CalcDiverse)
-![GitHub last commit](https://img.shields.io/github/last-commit/nikhilsundriya/CalcDiverse)
-![GitHub repo size](https://img.shields.io/github/repo-size/nikhilsundriya/CalcDiverse)
-![GitHub total lines](https://sloc.xyz/github/nikhilsundriya/CalcDiverse)
-![Github](https://img.shields.io/github/license/nikhilsundriya/CalcDiverse)
-![GitHub issues](https://img.shields.io/github/issues/nikhilsundriya/CalcDiverse)
-![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/nikhilsundriya/CalcDiverse)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/nikhilsundriya/CalcDiverse)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/nikhilsundriya/CalcDiverse)
 </p>
 </div>
 
@@ -61,26 +50,6 @@ CalcDiverse is a customized collection of calculators for various aspects of mat
 <h2>Overview⭐</h2>
 
 <h3>Live Project --> (https://calcdiverse-nikhil.netlify.app)</h3>
-
-<h3>Home/Main Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/02b2c6ae-663c-42c0-84f9-f5fe449423f9)<br><br>
-<h3>Calculators Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/749a318e-fe90-4ba1-bfd2-4d18c1d97be6)<br><br>
-<h3>About Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/11fff9d4-0069-441e-8450-95cc7b95cddf)<br><br>
-<h3>Contributors Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/f866c372-9b21-428e-a9b1-41b7b8907521)<br><br>
-<h3>FAQ Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/6b329d86-4ea1-4fc5-833f-08edf80b0459)<br><br>
-<h3>Contact Page :-</h3>
-
-![image](https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/c97c96ff-4468-44bf-b01a-f8f944d07b1e)
-<br><br>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-------------------------------------------------->
@@ -138,51 +107,9 @@ git push origin <your_branch_name>
 
 <!-------------------------------------------------->
 
-<h2>Contributing Guidelines📑</h2>
-
-Read our [Contributing Guidelines](https://github.com/nikhilsundriya/CalcDiverse/blob/main/.github/CONTRIBUTING_GUIDELINES.md) to learn about our development process, how to propose bugfixes and improvements, and how to build to CalcDiverse.
-
-<!-------------------------------------------------->
-
 <h2>Code Of Conduct📑</h2>
 
 This project and everyone participating in it is governed by the [Code of Conduct](https://github.com/nikhilsundriya/CalcDiverse/blob/main/.github/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
-
-<!-------------------------------------------------->
-
-<h2>This repo has been part of the following Open Source Programs🥳</h2>
-
-<table>
-
-<tr>
-<td align="center">
-<a href="https://iwoc3.live/"><img src="https://github.com/user-attachments/assets/31929aa2-68c1-4621-9a25-85cd2b5a9616" height="140px" width="140px" alt="IWOC2025"></a><br><sub><b>IWOC 2k25</b></sub>
-</td>
-<td align="center">
-<a href="https://www.socialwinterofcode.com/"><img src="https://github.com/nikhilsundriya/Beautiify/assets/73993775/9235952f-9062-4352-992d-eb34e4d60283" height="140px" width="180px" alt="SWOC2025"></a><br><sub><b>SWOC 2k25</b></sub>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<a href="https://kwoc.kossiitkgp.org/"><img src="https://github.com/user-attachments/assets/cb303f6e-e912-4618-9f5b-7f36c1b8b3a6" height="140px" width="140px" alt="KWOC2024"></a><br><sub><b>KWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://gssoc.girlscript.tech/"><img src="https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/910a2a16-0906-4234-bc7f-90f65b259527" height="140px" width="140px" alt="GSSOC2024"></a><br><sub><b>GSSOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://iwoc.codes/"><img src="https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/88ffb36d-4488-431f-84d1-92cc88cb045b" height="140px" width="140px" alt="IWOC2024"></a><br><sub><b>IWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://www.jwoc.tech/"><img src="https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/9bc792d6-a8f5-4ce0-b3e4-8212cb3a1584" height="140px" width="150px" alt="JWOC2024"></a><br><sub><b>JWOC 2k24</b></sub>
-</td>
-<td align="center">
-<a href="https://www.socialwinterofcode.com/"><img src="https://github.com/nikhilsundriya/CalcDiverse/assets/73993775/25eaca50-f883-481c-a531-8d1ce9cf4b66" height="140px" width="180px" alt="SWOC2024"></a><br><sub><b>SWOC 2k24</b></sub>
-</td>
-</tr>
-
-</table>
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-------------------------------------------------->
 
@@ -191,24 +118,16 @@ This project and everyone participating in it is governed by the [Code of Conduc
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/nikhilsundriya/"><img src="https://avatars.githubusercontent.com/u/73993775?v=4" height="140px" width="140px" alt="nikhilsundriya"></a><br><sub><b>Nikhil Sundriya</b><br><a href="https://www.linkedin.com/in/nikhilsundriya/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
+<a href="https://github.com/nikhilsundriya/"><img src="https://avatars.githubusercontent.com/u/212664255?s=400&u=82d5bbba123ea95beddaf513ff402a83954459f3&v=4" height="140px" width="140px" alt="nikhilsundriya"></a><br><sub><b>Nikhil Sundriya</b><br><a href="https://www.linkedin.com/in/nikhilsundriya/"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/278833250-adb040ea-e3ef-446e-bcd4-3e8d7d4c0176.png" width="45px" height="45px"></a></sub>
 </td>
 </tr>
 </table>
 
 <!-------------------------------------------------->
 
-<h2>Project Contributors🫂</h2>
-
-<a href="https://github.com/nikhilsundriya/calcdiverse/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=nikhilsundriya/calcdiverse" />
-</a>
-
-<!-------------------------------------------------->
-
 <h2>Contributing is fun🧡</h2>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://personal-portfolio-nikhil.netlify.app)
 <h3>Contributions of any kind from anyone are always welcome🌟!!</h3>
 <h3>Give it a 🌟 if you ❤ this project. Happy Coding👨‍💻</h3>
 <p align="right">(<a href="#top">back to top</a>)</p>
