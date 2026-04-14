@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
 :root {
     --primary: #ff1b82;
     --secondary: #f4eff0;
@@ -8,13 +7,11 @@
     --dark: #f50414;
     --track: rgb(111, 111, 139)
 }
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 /* Scrollbar Css */
 
 ::-webkit-scrollbar {
